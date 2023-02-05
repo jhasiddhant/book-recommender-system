@@ -7,8 +7,11 @@ This is a collaborative book recommender system that suggests similar books base
 To run this recommendation system, you will need the following:
 
 Python 3.9.12
+<br />
 Pandas
+<br />
 Numpy
+<br />
 Scikit-learn 
 
 ## Dataset
